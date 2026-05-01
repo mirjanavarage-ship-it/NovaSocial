@@ -1,0 +1,1 @@
+{\n  "name": "@novasocial/shared",\n  "version": "1.0.0",\n  "description": "Shared types and utilities for NovaSocial",\n  "main": "dist/index.js",\n  "types": "dist/index.d.ts",\n  "scripts": {\n    "build": "tsc",\n    "dev": "tsc --watch"\n  },\n  "dependencies": {},\n  "devDependencies": {\n    "typescript": "^5.2.0"\n  }\n}
